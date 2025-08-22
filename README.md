@@ -1,6 +1,6 @@
 # Call Center Team Performance Dashboard
-![Pizza Sales Dashboard](Call_center.png)
-![Pizza Sales Dashboard](Call_center2.png)
+![Callcenter Sales Dashboard](call_center.png)
+![Call center 2 Dashboard](call_center2.png)
 
 # Overview
 This project features a comprehensive Call Center Team Performance Dashboard that provides insights into agent performance, call metrics, and operational efficiency. The dashboard is built on a structured data model that enables detailed analysis of call center operations across multiple dimensions.
